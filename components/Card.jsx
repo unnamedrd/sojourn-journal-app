@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import data from "../data";
+import data from "../public/data";
 
 
 export default function Card(props) {
