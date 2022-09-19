@@ -1,8 +1,8 @@
 //Title, location, GoogleMapsLink, start date, end date, description , imageURL
 
-const travelItem = [
+export default [
   {
-    id: 001,
+    id: 101,
     title: "Miradouros in Lisbon",
     mapLink:
       "https://www.bing.com/maps?osid=9ecce04f-c732-4ed1-b4ad-46c1d56922c3&cp=38.75944~-9.490826&lvl=10&imgid=be20f27e-ab67-4a2d-a40c-2335da7447bc&v=2&sV=2&form=S00027",
@@ -13,7 +13,7 @@ const travelItem = [
       "Lisbon is known for their hills and windy cobblestone streets. It's a great town to walk in but make sure you bring comfy shoes. At sunset, find one of the many miraduoros in town and settle down with a local snack or drink, and hang out with the locals for this daily ritual",
   },
   {
-    id: 002,
+    id: 102,
     title: "Kayaking on Lake Washington",
     mapLink:
       "https://www.bing.com/maps?osid=9ecce04f-c732-4ed1-b4ad-46c1d56922c3&cp=38.75944~-9.490826&lvl=10&imgid=be20f27e-ab67-4a2d-a40c-2335da7447bc&v=2&sV=2&form=S00027",
@@ -25,7 +25,7 @@ const travelItem = [
   },
 
   {
-    id: 003,
+    id: 103,
     title: "Buenos Aries",
     mapLink:
       "https://www.bing.com/maps?osid=4d457d80-8b4a-403c-8e9d-2abbb6beac12&cp=-34.537271~-59.054642&lvl=9&imgid=f5dfd239-ff51-48c1-9d78-f9bed684fb21&v=2&sV=2&form=S00027",
@@ -36,7 +36,7 @@ const travelItem = [
       " Argentinians have come across tough times recently due to the instability of thier economy. But this country and their citizens are resilant. They have a proud history and nowhere is that more apparent than Buenos Aires. Make sure to get a walking tour of the city to hear about the history, stop by the Eva Perón musuem, grab some pasta at one of the many restuarants founded by the Italian immigrants and remember to indulge in thier world famous ice-cream",
   },
   {
-    id: 004,
+    id: 104,
     title: "Navigting the Medina Maze in Marrakesh",
     mapLink:
       "https://www.bing.com/maps?osid=9ecce04f-c732-4ed1-b4ad-46c1d56922c3&cp=38.75944~-9.490826&lvl=10&imgid=be20f27e-ab67-4a2d-a40c-2335da7447bc&v=2&sV=2&form=S00027",
