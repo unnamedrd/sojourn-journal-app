@@ -7,7 +7,7 @@ export default [
     mapLink:
       "https://www.bing.com/maps?osid=9ecce04f-c732-4ed1-b4ad-46c1d56922c3&cp=38.75944~-9.490826&lvl=10&imgid=be20f27e-ab67-4a2d-a40c-2335da7447bc&v=2&sV=2&form=S00027",
     location: "Portugal",
-    image: "Lisbon",
+    image: "Lisbon.jpg",
     start_date: "July 2019",
     end_date: "August 2019",
     description:
@@ -19,7 +19,7 @@ export default [
     mapLink:
       "https://www.bing.com/maps?osid=9ecce04f-c732-4ed1-b4ad-46c1d56922c3&cp=38.75944~-9.490826&lvl=10&imgid=be20f27e-ab67-4a2d-a40c-2335da7447bc&v=2&sV=2&form=S00027",
     location: "Washington State",
-    image: "LakeWashington",
+    image: "LakeWashington.jpg",
     start_date: "June 2021",
     end_date: "June 2021",
     description:
@@ -32,7 +32,7 @@ export default [
     mapLink:
       "https://www.bing.com/maps?osid=4d457d80-8b4a-403c-8e9d-2abbb6beac12&cp=-34.537271~-59.054642&lvl=9&imgid=f5dfd239-ff51-48c1-9d78-f9bed684fb21&v=2&sV=2&form=S00027",
     location: "Argentina",
-    image: "Argentina",
+    image: "Argentina.jpg",
     start_date: "May 2022",
     end_date: "June 2022",
     description:
@@ -44,7 +44,7 @@ export default [
     mapLink:
       "https://www.bing.com/maps?osid=9ecce04f-c732-4ed1-b4ad-46c1d56922c3&cp=38.75944~-9.490826&lvl=10&imgid=be20f27e-ab67-4a2d-a40c-2335da7447bc&v=2&sV=2&form=S00027",
     location: "Morocco",
-    image: "Marrakesh",
+    image: "Marrakesh.jpg",
     start_date: "Sept 2021",
     end_date: "Oct 2021",
     description:

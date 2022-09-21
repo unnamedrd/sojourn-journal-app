@@ -8,10 +8,11 @@ function App() {
   const cards = data.map(item => {
     return (
       <Card
-        image={item.image}
+        img={item.image}
         location={item.location}
         title={item.title}
-        date={item.start_date, item.end_date}
+        startDate={item.start_date}
+        endDate = {item.end_date}
         description = {item.description}
         
       />
