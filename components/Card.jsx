@@ -8,7 +8,9 @@ export default function Card(props) {
       <img src={`../images/${props.img}`} className="card-image" />
       <div className="cardDetails">
         <h2>{props.title}</h2>
-        <span>{props.location}</span>
+        <h4>
+          {props.location}
+        </h4>
         <p className="cardDescription">
           <span>{props.description}</span>
         </p>

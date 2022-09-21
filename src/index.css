@@ -18,7 +18,7 @@
   box-sizing: border-box;
 }
 nav{
-  background-color: darkgreen;
+  background-color: #8FB6D9;
   color:white;
   height: 25vh;
   width: 100vw;
@@ -32,36 +32,40 @@ body {
   display: flex;
   min-width: 320px;
   min-height: 100vh;
+  background-color: #F2F0EB;
 }
 
 a {
   font-weight: 500;
-  color: pink;
+  color:#F25E29;
   text-decoration: inherit;
 }
 a:hover {
-  color:pink;
+  color:#F25E29
 }
 
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+  color: #1676C1;
 }
 
 .cardJournal{
-  height: 30vh;
+  height: 40vh;
   width: 85vw;
-  border: 1px black solid; 
+  background-color: #F0F2F2;
+  border: 1px #F0E2C8 solid; 
+  box-shadow: 2px 4px 3px 3px #F2ECE4;
   border-radius: 8px;
   margin:5%;
-  padding: 3%;
+  padding: 2%;
   display: flex;
 
 }
 
 .cardDescription{
   text-align: left;
-  width: 50%;
+  width: 70%;
   float: right;
 }
 
