@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Unicase:wght@300;400;500;700&family=Kanit:wght@100;200;300;400&family=Montserrat+Subrayada:wght@400;700&family=Neuton:wght@200;300&family=Playfair+Display+SC:wght@400;700;900&family=Sofia&display=swap');
+
+
 :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
   font-size: 16px;
@@ -24,6 +27,11 @@ nav {
   width: 100vw;
   padding: 5%;
   display: flex;
+  
+}
+
+nav > h1{
+ font-family: "Sofia";
 }
 
 body {
@@ -49,6 +57,17 @@ h1 {
   color: #1676c1;
 }
 
+h2{
+  font-family: "Nueton";
+  color: #8fb6d9;
+}
+
+h4 {
+  font-family: "Playfair Display";
+  color: #f25e29;
+  font-size: 1.5em;
+}
+
 .cardJournal {
   height: 40vh;
   width: 85vw;
@@ -65,6 +84,7 @@ h1 {
   text-align: left;
   width: 70%;
   float: right;
+  font-family: "Kanit";
 }
 
 .card-image{
