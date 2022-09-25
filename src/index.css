@@ -21,7 +21,7 @@
   box-sizing: border-box;
 }
 nav {
-  background-color: #8fb6d9;
+  background-color:  #1676c1;
   color: white;
   height: 25vh;
   width: 100vw;
@@ -54,7 +54,7 @@ a:hover {
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
-  color: #1676c1;
+  color:#8fb6d9;
 }
 
 h2{
